@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-kafka-example",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.10.0"
+  }
+}
